@@ -1,0 +1,12 @@
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\bin\Debug\CodeFirstDrill.exe.config
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\bin\Debug\CodeFirstDrill.exe
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\bin\Debug\CodeFirstDrill.pdb
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\bin\Debug\EntityFramework.dll
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\bin\Debug\EntityFramework.xml
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\obj\Debug\CodeFirstDrill.csprojResolveAssemblyReference.cache
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\obj\Debug\CodeFirstDrill.csproj.CoreCompileInputs.cache
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\obj\Debug\CodeFirstDrill.csproj.CopyComplete
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\obj\Debug\CodeFirstDrill.exe
+C:\Users\Carter\source\repos\CodeFirstDrill\CodeFirstDrill\obj\Debug\CodeFirstDrill.pdb
